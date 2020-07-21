@@ -1,11 +1,11 @@
-from haystack import Finder
-from haystack.indexing.cleaning import clean_wiki_text
-from haystack.indexing.utils import convert_files_to_dicts, fetch_archive_from_http
-from haystack.reader.farm import FARMReader
-from haystack.reader.transformers import TransformersReader
-from haystack.utils import print_answers
-from haystack.database.memory import InMemoryDocumentStore
-document_store = InMemoryDocumentStore()
+#from haystack import Finder
+#from haystack.indexing.cleaning import clean_wiki_text
+#from haystack.indexing.utils import convert_files_to_dicts, fetch_archive_from_http
+#from haystack.reader.farm import FARMReader
+#from haystack.reader.transformers import TransformersReader
+#from haystack.utils import print_answers
+#from haystack.database.memory import InMemoryDocumentStore
+#document_store = InMemoryDocumentStore()
 
 #doc_dir = "data/article_txt_got"
 #s3_url = "https://s3.eu-central-1.amazonaws.com/deepset.ai-farm-qa/datasets/documents/wiki_gameofthrones_txt.zip"
