@@ -1,3 +1,2 @@
 streamlit==0.62.0
-farm==0.4.6
 pandas
