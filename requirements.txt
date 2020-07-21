@@ -1,2 +1,2 @@
 streamlit==0.62.0
-git+https://github.com/anirbansaha96/haystack.git
+git+https://github.com/anirbansaha96/haystack-1.git
