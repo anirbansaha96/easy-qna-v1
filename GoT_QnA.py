@@ -29,4 +29,4 @@ question=st.text_input("Write a Text")
 if question!='':
   prediction='Test Output'
 
-  streamlit.write("You Wrote : ", prediction)
+  st.write("You Wrote : ", prediction)
